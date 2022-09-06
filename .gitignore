@@ -1,0 +1,5 @@
+data/*
+.vscode/*
+.streamlit/*
+.DS_Store
+.python-version
